@@ -31,5 +31,5 @@ unused
 .DS_Store
 
 # Folder to ignore for development with es6
-lib
+
 docs/tokenfiles/*.json
